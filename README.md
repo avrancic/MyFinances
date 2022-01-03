@@ -17,7 +17,7 @@ Web: (dodat će se kasnije)
 
 Sveučilište Jurja Dobrile u Puli
 
-Fakultet informatike u Puli
+<a href="https://fipu.unipu.hr/" target="_blank">Fakultet informatike u Puli</a>
 
 Programsko inženjerstvo, ak.god. 2021./2022.
 

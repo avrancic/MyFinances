@@ -1,19 +1,19 @@
 # myfinances
+Kratki opis aplikacije ide ovdje. Primjer: Web aplikacija za praćenje novih filmova i serija.
+Autori i zaduženja
 
-## Project setup
-```
-npm install
-```
+    Ivica Ivić (test_iivic@unipu.hr) - implementacija modula za administraciju i UI komponenti
+    Maja Majić (test_mmajic@unipu.hr) - implementacija modula za rezervaciju i pregled filmova
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Prototip aplikacije
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Figma: https://figma.com/...
+Javni link na aplikaciju
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Web: https://netlify... (dodat će se kasnije)
+Organizacija
+
+Sveučilište Jurja Dobrile u Puli
+Fakultet informatike u Puli
+Programsko inženjerstvo, ak.god. 20XX./20XX.
+Mentor: Nikola Tanković (https://fipu.unipu.hr/fipu/nikola.tankovic, nikola.tankovic@unipu.hr)

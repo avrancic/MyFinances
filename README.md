@@ -5,14 +5,14 @@ Autori i zaduženja
     Arian Vrančić (avrancic@unipu.hr) - 
     Michel Rabar (mirabrar@unipu.hr) - 
 
-Prototip aplikacije
+# Prototip aplikacije
 
 Figma: https://www.figma.com/file/dQkHiYuEK3uC9PHjMcj2gm/FinancesMY?node-id=0%3A1
 
-Javni link na aplikaciju
+# Javni link na aplikaciju
 
 Web: (dodat će se kasnije)
-Organizacija
+# Organizacija
 
 Sveučilište Jurja Dobrile u Puli
 

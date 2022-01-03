@@ -1,5 +1,6 @@
 # MyFinances
 Web aplikacija za pračenje osobnih financija.
+
 Autori i zaduženja
 
     Arian Vrančić (avrancic@unipu.hr) - 

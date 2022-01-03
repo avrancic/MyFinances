@@ -1,10 +1,21 @@
 <template>
   <div id="app">
-    <div id="nav">
+    <nav id="nav" class="navbar navbar-light bg-light">
+    <a class="navbar-brand" href="#">
+      <img src="@/assets/myfinances.png" 
+      alt="" 
+      width="30" 
+      height="24" 
+      class="d-inline-block align-text-top">
+      MyFinances
+    </a>
       <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
+      <router-link to="/signup">Registracija</router-link> |
+      <router-link to="/login">Prijava</router-link>
+    </nav>
+    <div class="container-fluid">
+    <router-view />
     </div>
-    <router-view/>
   </div>
 </template>
 

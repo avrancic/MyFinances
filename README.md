@@ -19,6 +19,9 @@ Sveučilište Jurja Dobrile u Puli
 
 <a href="https://fipu.unipu.hr/" target="_blank">Fakultet informatike u Puli</a>
 
-Programsko inženjerstvo, ak.god. 2021./2022.
+
+<a href="https://www.notion.so/fiputreca/Programsko-in-enjerstvo-e353945331df468e8382cdad1e91c4b8" target="_blank">Programsko inženjerstvo, ak.god. 2021./2022.
+</a>
 
 Mentor: Nikola Tanković (https://fipu.unipu.hr/fipu/nikola.tankovic, nikola.tankovic@unipu.hr)
+
